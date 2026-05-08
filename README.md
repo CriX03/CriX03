@@ -50,7 +50,7 @@ To continue growing professionally in the area of ​​software development, pa
 ## My Github Analytics ⚙️
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/CriX03">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CriX03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CriX03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
